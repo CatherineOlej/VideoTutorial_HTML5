@@ -1,0 +1,75 @@
+WEBVTT
+
+1
+00:00:02.000 --> 00:00:10.000
+Today I will show you how to make a Portfolio like this. Go to my github and follow the steps in the video
+(link embedded in footer name)
+
+2
+00:00:12.000 --> 00:00:17.000 
+Lets Begin. Scroll down and click on <b>Deploy to Netlify</b>
+
+3
+00:00:19.000 --> 00:00:31.000 
+Now we will connect github to our site and set up a repository name for it
+
+4
+00:00:31.000 --> 00:00:33.000 
+Click on the link to view your site
+
+5
+00:00:35.000 --> 00:00:43.000 
+In the URL add /admin/# to enter the content manager
+
+6
+00:00:46.000 --> 00:00:50.000 
+Loading...
+
+7
+00:00:51.000 --> 00:00:56.000 
+Here is where we can edit page content
+
+8
+00:00:57.000 --> 00:01:03.000 
+Remove the text and add your own
+
+9
+00:01:05.000 --> 00:01:27.000 
+Now SAVE --> Set Status to READY --> PUBLISH NOW | Once updated go to your site
+
+10
+00:01:29.000 --> 00:01:33.000
+Refresh all pages associated with it your site
+
+11
+00:01:34.000 --> 00:01:47.000
+Now watch and learn how to add an Image to your post
+
+12
+00:01:49.000 --> 00:02:08.000
+Now SAVE --> Set Status to READY --> PUBLISH NOW | Once updated go to your site and refresh the page
+
+13
+00:02:11.000 --> 00:02:18.000
+Now I will show you how to change the header title. (Go to github)
+
+14
+00:02:19.000 --> 00:02:25.000
+Select '_config.yml' file to make the changes
+
+15
+00:02:27.000 --> 00:02:31.000
+Commit changes then go back and refresh your site
+
+16
+00:02:31.000 --> 00:02:35.000
+Now watch how to change author names
+
+17
+00:02:36.000 --> 00:02:49.000
+admin --> config.yml --> replace names --> commit changes --> content manager 
+Click on a post to see the changes
+
+
+
+
