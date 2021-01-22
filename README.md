@@ -6,12 +6,12 @@ Video tutorial for my portfolio that was created using jekyll netlify
 
 # Get started
 
-* Visit: https://catherineolej.github.io/star-wars-fansite.github.io/
+* Visit: https://catherineolej.github.io/VideoTutorial_HTML5/
 
 ## How it was built
 
 * HTML
-
+* WEBVTT (subtitles)
 
 ## Author
 
